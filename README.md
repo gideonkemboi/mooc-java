@@ -1,7 +1,6 @@
 ## Overview
 
-This repository contains my solutions for the [**Java Programming
-** Massive Open Online Course (MOOC) offered by the University
+This repository contains my solutions for the [**Java Programming** Massive Open Online Course (MOOC) offered by the University
 of Helsinki.](https://java-programming.mooc.fi/)
 
 ## Prerequisites
